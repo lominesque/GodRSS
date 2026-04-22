@@ -7,4 +7,4 @@
 
 <br>
 
-*This bot was a part of my graduate thesis so I'm attaching the coresponding Word document with all my work.*
+*This bot was a part of my graduate thesis so I'm attaching the corresponding Word document with all my work.*
